@@ -1,16 +1,13 @@
 package neboer.lightinggame;
 
-import com.sun.security.auth.login.ConfigFile;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
-import neboer.lightinggame.Main;
 import org.bukkit.configuration.file.FileConfiguration;
 import org.bukkit.event.HandlerList;
-import org.bukkit.event.Listener;
-import org.checkerframework.checker.nullness.qual.NonNull;
 
-import static org.bukkit.Bukkit.*;
+import static org.bukkit.Bukkit.getLogger;
+import static org.bukkit.Bukkit.getServer;
 
 public class GameController implements CommandExecutor {
     public Main plugin;

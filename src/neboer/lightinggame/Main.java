@@ -1,8 +1,6 @@
 package neboer.lightinggame;
 
 import org.bukkit.plugin.java.JavaPlugin;
-import org.bukkit.event.Event;
-import neboer.lightinggame.KyaruGame;
 
 import java.util.Objects;
 
