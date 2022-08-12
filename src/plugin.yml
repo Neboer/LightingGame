@@ -1,0 +1,9 @@
+name: LightingGame
+version: 1.0
+author: Neboer
+main: neboer.lightinggame.Main
+api-version: 1.19
+commands:
+  lightinggame:
+    description: Start a lighting game!
+    usage: /lightinggame KyaruGame {start|stop}

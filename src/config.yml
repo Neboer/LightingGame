@@ -1,0 +1,14 @@
+kyaru_head:
+  v: 3105
+  type: PLAYER_HEAD
+  meta:
+    ==: ItemMeta
+    meta-type: SKULL
+    skull-owner:
+      ==: PlayerProfile
+      uniqueId: 1ed34b73-b1e7-3ef1-a4e7-b57bedbf0870
+      name: kiruya
+      properties:
+      - name: textures
+        value: eyJ0aW1lc3RhbXAiOjE1ODc5NDM5NzY0NjksInByb2ZpbGVJZCI6IjgyYzYwNmM1YzY1MjRiNzk4YjkxYTEyZDNhNjE2OTc3IiwicHJvZmlsZU5hbWUiOiJOb3ROb3RvcmlvdXNOZW1vIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YzNkODdkYmMyNDQzYWNmYWNmOTU5YWM4ZjhmMzM4Y2QwYzg3MDI0ZWVjOWQwMmVlNmQzMzM5ZDFkZDQ1YjU0In19fQ==
+        signature: dJiI/kvLMQdxsfg4YE0TeKSuPBBGX7DSLF3o/KF3uHA34Rp/0dCYHOXixiY1Rn6p1NY5Gy90zdbh+ATei8tHPT0UYHl3JxE5r4+1FHbVJTTrejXFQwUwB1bqzPmDcbwEKCKYGiunC2KTlxmBQe95wDlVecV+ylsuTNYr6PQf0CbvSMKD7XOBds19srilN0Unej3HKIRMMIPffeXkOXdCz7l5Mlv0DStGzWYCjHXG/05eD+iWGC8+DK9SWDVR436FumjrSksXziqwv6MwU3qgxRyiwTW89CMB53aD5ims5+xNRoeb5JUZgMw22MHAaHf8jB5hfOBGGRVKRiRLU0UJzR5XJGmXG50o35IivPqjv6DItrqQW0B47o80gAhE7ABCPIWD0Awgt6Buxw6cmOK0xGjWggTGraDBKkS3ndKSPbZTbR5TlX4o+fWbKp+n1ARtm3wfuoxjSkhlGlaKeaZT1BZDV+dYCXaUp7sHLNfzv9d4iumHPJVWIDOvX4VFhr584otTYymO7cW+ZXcBwJ6gg2UGHj5kL0qkYWalbo7q1y3MC26Df/Sv70ovAAlNCkMMY8AOrjgdJ5+M3JWxSE0Sp9RdBy3ScFuDwdXt3C016NhQt9KfFSTyxar66nTEV2Qd252nKAOIA1tzzVUOfsY7EWW2KOIkj5+VO/1S+0I/BYg=
